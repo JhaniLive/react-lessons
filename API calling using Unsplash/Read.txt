@@ -1,0 +1,3 @@
+Here, I've used Unsplash API which you can check at https://unsplash.com/developers.
+
+Please create Unsplash Account if you don't have one and copy the respected API key and paste into Unsplash.js file. 
